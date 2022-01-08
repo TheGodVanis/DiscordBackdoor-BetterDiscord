@@ -1,2 +1,2 @@
-# DiscordBackdoor-BetterDiscord
-DiscordBackdoor/BetterDiscord/ 
+# DiscordBackdoor
+Better Discord plugin for remote command execution
