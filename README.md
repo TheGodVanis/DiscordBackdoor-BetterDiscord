@@ -1,0 +1,2 @@
+# DiscordBackdoor-BetterDiscord
+DiscordBackdoor/BetterDiscord/ 
